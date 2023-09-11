@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "cover": "/projects/AmaiMtoto/amai-mtoto.png",
+      "title": "Amai Mtoto",
+      "description": "React, Nextjs, Firebase, Chakra UI, Vercel, Cypress",
+      "url": "https://amai-mtoto.vercel.app/"
+    },
+    {
+      "cover": "/projects/InspirationalQuotes/inspirational-quotes.png",
+      "title": "Inspirational Quotes",
+      "description": "Nextjs, AWS, Styled Components",
+      "url": "https://main.dbhvth7l6xvh.amplifyapp.com/"
+    }
+  ]
+}
