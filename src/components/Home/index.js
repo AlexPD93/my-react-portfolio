@@ -59,7 +59,10 @@ const Home = () => {
             />
           </h1>
           <h2>Frontend Developer </h2>
-          <Link to="/contact" className="flat-button">
+          <Link
+            to="https://www.linkedin.com/in/aperezdavies/"
+            className="flat-button"
+          >
             CONTACT ME
           </Link>
         </div>
