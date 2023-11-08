@@ -11,6 +11,18 @@
       "title": "Inspirational Quotes",
       "description": "Nextjs, AWS, Styled Components",
       "url": "https://main.dbhvth7l6xvh.amplifyapp.com/"
+    },
+    {
+      "cover": "/projects/TicTacToe/TicTacToe.png",
+      "title": "Tic Tac Toe",
+      "description": "React",
+      "url": "https://whimsical-tulumba-87c33d.netlify.app/"
+    },
+    {
+      "cover": "/projects/WeatherApp/Weather-app.png",
+      "title": "React Weather App",
+      "description": "React, Open Weather api",
+      "url": "https://mystifying-kepler-7d4bc5.netlify.app/"
     }
   ]
 }
