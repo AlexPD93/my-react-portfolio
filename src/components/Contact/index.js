@@ -24,10 +24,10 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am looking for the next role in my career. Don't hesitate to
-            contact me on{' '}
+            I am looking for the next opportunity in my career. Don't hesitate
+            to contact me on{' '}
             <a href="https://www.linkedin.com/in/aperezdavies/">LinkedIn</a>{' '}
-            with any Front-End Developer opportunities.
+            with any Frontend Developer opportunities.
           </p>
         </div>
         <div className="info-map">
