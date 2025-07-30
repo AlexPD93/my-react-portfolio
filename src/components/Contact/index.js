@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
-import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
+import { MapContainer, Marker, TileLayer } from 'react-leaflet'
 const Contact = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
 
