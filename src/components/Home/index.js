@@ -12,17 +12,21 @@ const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
   const nameArray = ['l', 'e', 'x', ',']
   const jobArray = [
-    'w',
-    'e',
-    'b',
-    ' ',
-    'd',
-    'e',
-    'v',
-    'e',
-    'l',
+    'S',
     'o',
-    'p',
+    'f',
+    't',
+    'w',
+    'a',
+    'r',
+    'e',
+    ' ',
+    'E',
+    'n',
+    'g',
+    'i',
+    'n',
+    'e',
     'e',
     'r',
     '.',
@@ -55,10 +59,10 @@ const Home = () => {
             <AnimatedLetters
               letterClass={letterClass}
               strArray={jobArray}
-              idx={20}
+              idx={18}
             />
           </h1>
-          <h2>Frontend Developer </h2>
+          <h2>Full-Stack Software Engineer </h2>
           <Link
             to="https://www.linkedin.com/in/aperezdavies/"
             className="flat-button"

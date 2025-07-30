@@ -24,25 +24,22 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am looking for the next opportunity in my career. Don't hesitate
-            to contact me on{' '}
+            Don't hesitate to contact me on{' '}
             <a href="https://www.linkedin.com/in/aperezdavies/">LinkedIn</a>{' '}
-            with any Frontend Developer opportunities.
+            with any Full-Stack Software Engineer opportunities.
           </p>
         </div>
         <div className="info-map">
           Alex Perez-Davies
           <br />
-          Hackney, London
+          South Tottenham, London
           <br />
           United Kingdom
         </div>
         <div className="map-wrap">
-          <MapContainer center={[51.5555438, -0.0674532]} zoom={16}>
+          <MapContainer center={[51.581386, -0.088]} zoom={16}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[51.5555438, -0.0674532]}>
-              <Popup>Alex lives here, come over for a cup of coffee :)</Popup>
-            </Marker>
+            <Marker position={[51.581386, -0.088]}></Marker>
           </MapContainer>
         </div>
       </div>

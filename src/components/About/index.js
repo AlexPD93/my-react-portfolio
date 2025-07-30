@@ -32,12 +32,14 @@ const About = () => {
             />
           </h1>
           <p>
-            As a motivated and self-taught Frontend Engineer with a background
-            in entrepreneurship and hospitality management, I am excited to
-            continue my career in engineering. This diverse background equips me
-            with a valuable skill set and a strong foundation to excel at the
-            intersection of various industries, where my problem-solving skills
-            will help address the challenges of rapidly changing environments.
+            I'm a Full Stack Software Engineer with experience building and
+            shipping features across the stack using TypeScript, React/Next.js,
+            C#/.NET, and PostgreSQL. I enjoy working closely with others in
+            collaborative teams, pride myself in taking ownership of my work and
+            I value feedback as a key part of learning and growing. I'm
+            especially drawn to roles where I can contribute to work that has a
+            real impact while building well-tested features and helping improve
+            how teams write and deliver code.
           </p>
           <p>
             I thrive in dynamic settings and am dedicated to ongoing personal
@@ -51,13 +53,13 @@ const About = () => {
             constantly exploring new recipes and techniques. I'm also an
             enthusiastic foodie who enjoys discovering exciting new restaurants,
             whether locally or while traveling.
-            <p>
-              Exploring new destinations and experiencing different cultures is
-              a significant part of my life. I'm an avid cyclist too, as it
-              keeps me active and connected to the outdoors. These interests
-              define me and reflect my curiosity and appreciation for a variety
-              of experiences, both familiar and new.
-            </p>
+          </p>
+          <p>
+            Exploring new destinations and experiencing different cultures is a
+            significant part of my life. I'm an avid cyclist too, as it keeps me
+            active and connected to the outdoors. These interests define me and
+            reflect my curiosity and appreciation for a variety of experiences,
+            both familiar and new.
           </p>
         </div>
 
