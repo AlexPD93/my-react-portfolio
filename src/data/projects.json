@@ -1,10 +1,34 @@
 {
   "projects": [
     {
+      "cover": "/projects/FootballApi/football.png",
+      "title": "Football",
+      "description": "Python, FastApi, OAuth, DynamoDb, Serverless",
+      "url": "https://08us63cryj.execute-api.eu-west-2.amazonaws.com/dashboard"
+    },
+    {
+      "cover": "/projects/TravelRecommender/TravelRecommender.png",
+      "title": "Travel Recommender",
+      "description": "TypeScript, Gemini Api, React",
+      "url": "https://travel-recommender-gray.vercel.app/"
+    },
+    {
+      "cover": "/projects/GmailMCPServer/gmail.png",
+      "title": "Gmail MCP Server",
+      "description": "Python, Gmail, MCP Server",
+      "url": "https://github.com/AlexPD93/email-mcp-server"
+    },
+    {
       "cover": "/projects/AmaiMtoto/amai-mtoto.png",
       "title": "Amai Mtoto",
       "description": "React, Nextjs, Firebase, Chakra UI, Vercel, Cypress",
       "url": "https://amai-mtoto.vercel.app/"
+    },
+    {
+      "cover": "/projects/WeatherApp/Weather-app.png",
+      "title": "React Weather App",
+      "description": "React, Open Weather api",
+      "url": "https://mystifying-kepler-7d4bc5.netlify.app/"
     },
     {
       "cover": "/projects/InspirationalQuotes/inspirational-quotes.png",
@@ -17,12 +41,6 @@
       "title": "Tic Tac Toe",
       "description": "React",
       "url": "https://whimsical-tulumba-87c33d.netlify.app/"
-    },
-    {
-      "cover": "/projects/WeatherApp/Weather-app.png",
-      "title": "React Weather App",
-      "description": "React, Open Weather api",
-      "url": "https://mystifying-kepler-7d4bc5.netlify.app/"
     }
   ]
 }
